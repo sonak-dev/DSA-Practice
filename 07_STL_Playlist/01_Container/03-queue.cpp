@@ -12,6 +12,7 @@ int main () {
     que.push(78);
     que.push(12);
     que.push(1);
+    que.push(5);
 
 
     // deletion
