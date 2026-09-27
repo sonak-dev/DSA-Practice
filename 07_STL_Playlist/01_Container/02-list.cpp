@@ -63,4 +63,8 @@ int main () {
     printList(lst2);
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b10cf43 (Add implementations for list and queue data structures)
