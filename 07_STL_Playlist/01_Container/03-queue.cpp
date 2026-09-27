@@ -18,6 +18,8 @@ int main () {
     // deletion
     que.pop();
 
+    cout <<"Front element: " <<que.front() <<endl;
+
     // print the queue
     while (!que.empty()) {
         cout << que.front() << " ";
@@ -26,8 +28,4 @@ int main () {
 
 
     return 0;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> b10cf43 (Add implementations for list and queue data structures)
