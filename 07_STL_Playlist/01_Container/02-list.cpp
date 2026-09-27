@@ -60,7 +60,7 @@ int main () {
     // lst1.swap(lst2);
 
     // printList(lst1);
-    // printList(lst2);
+    printList(lst2);
 
     return 0;
 }
